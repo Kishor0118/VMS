@@ -58,4 +58,8 @@ Specify a port number if needed (e.g., `python manage.py runserver 8000`).
 Use the provided APIs to perform vendor management, purchase order creation/modification, and performance tracking.
 Example: `http://localhost:8000/api/vendors/`, `http://localhost:8000/api/purchaseorders/`, etc.
 
+## Accessing Sample Results
+
+For a visual demonstration of the system's functionalities and sample results, navigate to the **Screenshot** directory in this repository. You'll find screenshots showcasing various aspects of the Vendor Management System, including vendor creation, purchase order modification, delivery tracking, and more.
+
 
